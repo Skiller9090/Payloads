@@ -1,2 +1,3 @@
-while True:
-	print("Andras has big titties")
+a = open("fuckyou.xxx","w")
+a.write("fuck you more")
+a.close()
